@@ -49,5 +49,5 @@ I'm Muhammad Junaid Ramzan, a Data Science and Machine Learning enthusiast based
 ## 📫 Let's connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junaid469/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/Junaid469)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-green)](https://github.com/junaid-10xe)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836)](mailto:mjunaidahmed469@gmail.com)
