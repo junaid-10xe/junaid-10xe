@@ -7,15 +7,10 @@ Additionally, I have a keen interest in **Data Science & Machine Learning**, wit
 ## 🔧 Technologies & Tools  
 
 ### **Hardware Verification**  
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat-square)  
-![UVM](https://img.shields.io/badge/-UVM-red?style=flat-square)  
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
-![Bash Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat-square)  ![UVM](https://img.shields.io/badge/-UVM-red?style=flat-square)  ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  ![Bash Scripting](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
 ### **Data Science & Machine Learning**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
 
 ## 🚀 Skills  
 
